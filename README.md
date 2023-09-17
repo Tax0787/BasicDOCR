@@ -1,4 +1,4 @@
-# [DOCR](https://github.io/Tax0787/DOCR)
+# [DOCR](https://github.com/Tax0787/DOCR)
 reality Document text OCR drive (usually use programming)
 
 ## WHAT IS BASIC DOCR
